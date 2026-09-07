@@ -1,6 +1,6 @@
 # Deploy and Host Microsoft Edge (Cloud Browser) on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/edge-browser?utm_medium=integration&utm_source=button&utm_campaign=edge-browser)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/microsoft-edge?utm_medium=integration&utm_source=button&utm_campaign=microsoft-edge)
 
 This template runs a full desktop [Microsoft Edge](https://www.microsoft.com/edge) browser in the cloud, streamed to any device through the [linuxserver.io](https://docs.linuxserver.io/images/docker-msedge/) Selkies web interface. Open your Railway domain, log in, and you're inside a real browser running on the server — bookmarks, extensions, downloads, and sessions persist between visits.
 
