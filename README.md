@@ -1,6 +1,6 @@
 # Deploy and Host Microsoft Edge (Cloud Browser) on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/microsoft-edge?utm_medium=integration&utm_source=button&utm_campaign=microsoft-edge)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/microsoft-edge?referralCode=sLjDXb&utm_medium=integration&utm_source=button&utm_campaign=microsoft-edge)
 
 This template runs a full desktop [Microsoft Edge](https://www.microsoft.com/edge) browser in the cloud, streamed to any device through the [linuxserver.io](https://docs.linuxserver.io/images/docker-msedge/) Selkies web interface. Open your Railway domain, log in, and you're inside a real browser running on the server — bookmarks, extensions, downloads, and sessions persist between visits.
 
@@ -33,7 +33,7 @@ Notes and limits:
 - Keep the login strong: an open cloud browser is a proxy for whoever finds it. The password gate is the whole security model — don't remove it.
 - Rendering is CPU-based (no GPU on Railway). Fine for browsing and light video; not for WebGL-heavy work.
 - Microsoft Edge is memory-hungry: give the service 1–2 GB. Heavy tab hoarding needs more.
-- Want a different engine? The same author publishes [Chromium](https://railway.com/deploy/chromium) and [Firefox](https://railway.com/deploy/firefox-browser) templates too.
+- Want a different engine? The same author publishes [Chromium](https://railway.com/deploy/chromium?referralCode=sLjDXb) and [Firefox](https://railway.com/deploy/firefox-browser?referralCode=sLjDXb) templates too.
 - Traffic egresses from Railway's IP range — sites that block datacenter IPs (some streaming services) may object.
 - Abuse note: this is a browser, not an anonymizer. Use it within Railway's terms of service and the laws that apply to you.
 
