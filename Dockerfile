@@ -1,4 +1,4 @@
-FROM linuxserver/msedge:155.0.4283.45-1-ls207
+FROM linuxserver/msedge:155.0.4283.62-1-ls209
 
 # Upstream starts Xvfb with a 15360x8640 screen, which pins ~600 MB for the
 # framebuffer alone and OOM-kills the desktop on Railway's 512 MB Trial plan.
